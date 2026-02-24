@@ -21,12 +21,12 @@
 - **기준 확립**: 이에 따라 마지막 구매 후 **90일간 활동이 없는 고객을 '이탈(1)'**로 정의했습니다.
 
 ### 3. 주요 시각화 (EDA)
-| 이상치 제거 기준 (상위 0.1%) | 누적 재구매 확률 분포 |
-| :---: | :---: |
+| 이상치 제거 기준 (상위 0.1%) 
 | ![이상치그래프]
-<img width="1035" height="553" alt="image" src="https://github.com/user-attachments/assets/e5b8ed42-b30a-4324-b79f-833a2c0ba199" />
+<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/e5b8ed42-b30a-4324-b79f-833a2c0ba199" />
+| 누적 재구매 확률 분포 |
 | ![확률그래프]
-<img width="863" height="553" alt="image" src="https://github.com/user-attachments/assets/dfb7b8a7-bbac-4d9d-ab4f-82e45032b77c" />
+<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/dfb7b8a7-bbac-4d9d-ab4f-82e45032b77c" />
 
 
-> *그래프 설명: 왼쪽은 리셀러를 정의한 기준선이며, 오른쪽은 90일 이내 재구매 확률이 수렴하는 지점을 보여줍니다.*
+> *그래프 설명: 첫번째 그래프는 리셀러를 정의한 기준선이며, 두번째 그래프는 90일 이내 재구매 확률이 수렴하는 지점을 보여줍니다.*
